@@ -1,0 +1,31 @@
+html{
+   
+    font: 10px;
+}
+
+body{
+    text-align: center;
+    background-color:rgb(26, 9, 26);
+    color: white;
+    
+}
+#start
+{
+    font-size: 1.25rem;
+    margin-top:30px;
+    list-style: 1rem;
+}
+#survey{
+    text-align: left;
+    background-color: rgb(16, 2, 68);
+    position:relative;
+    margin:auto;
+    width: 700px;
+    height: auto;
+    
+}
+#submit
+{
+    background-color: green;
+    width: 100%;
+}
